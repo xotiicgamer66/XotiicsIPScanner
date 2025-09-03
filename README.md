@@ -39,7 +39,7 @@ A powerful network scanning tool for IT professionals and cybersecurity enthusia
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/XotiicsIPScanner.git
+git clone https://github.com/xotiicgamer66/XotiicsIPScanner.git
 
 # Install dependencies
 pip install -r requirements.txt
