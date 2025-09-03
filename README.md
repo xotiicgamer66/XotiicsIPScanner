@@ -1,6 +1,6 @@
 # Xotiics IP Scanner
 
-![Xotiics IP Scanner](assets/x.png)
+![Xotiics IP Scanner](x.png)
 
 A powerful network scanning tool for IT professionals and cybersecurity enthusiasts.
 
