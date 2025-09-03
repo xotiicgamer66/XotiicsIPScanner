@@ -6,7 +6,7 @@ A powerful network scanning tool for IT professionals and cybersecurity enthusia
 
 ## 📥 Download
 
-[Download Latest Version](https://github.com/xotiicgamer66/XotiicsIPScanner/releases/download/v1.0.0/XotiicsIPScanner_Portable.zip)) - Portable ZIP (41.5 MB)
+[Download Latest Version](https://github.com/xotiicgamer66/XotiicsIPScanner/releases/download/v1.0.0/XotiicsIPScanner_Portable.zip) - Portable ZIP (41.5 MB)
 
 ## ✨ Features
 
